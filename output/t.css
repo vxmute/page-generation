@@ -1,0 +1,60 @@
+			body {
+				background-image:url('asciimanpage.png');
+				margin-left:auto;
+				margin-right:auto;
+				width:800px;
+				background-color: #EEE;
+				font-family:"Courier New";
+				font-size: 14;
+				border-top: 2px solid #000;
+				border-left: 2px solid #000;
+				border-right: 2px solid #000;
+				border-bottom: 2px solid #000;
+			}
+
+			#links {
+				padding: 1ex 1ex;
+				font-size: 12;
+				color: #FFFFFF;
+				border-left: 2px solid #000; 
+				height: 1.2em;
+				background-color: #000000
+			}
+			#links a{
+				color: #AAAAAA;
+			}
+			#header {
+				height: 0.5em;
+				background-color: #000000;
+				color: #FFFFFF;
+				border-top:2px solid #000;
+				padding: 1ex 1ex;
+				font-size: 16;
+			}
+			#side-bar {
+				font-size: 12;
+				padding: 1ex 1ex;
+				width: 10em;
+				float: left;
+				clear: left;
+			}
+			#side-bar a{
+				color: #101010;
+			}
+
+			#side-bar div {
+				border-bottom: 1px solid #000;
+			}
+			#main-copy {
+				max-width: 70em;
+				color: black;
+				text-align: justify;
+				line-height: 1em;
+				margin: 0em 0 0 10em;
+				padding: 0.5mm 5mm 10mm 2.5mm;
+				border-left: 4px solid #000;
+			}
+			#bottom {
+				padding: 1ex 1ex;
+				border-top: 3px solid #000;
+			}

@@ -1,0 +1,4 @@
+This is a simple tool to produce simple pages, based off ascii text files.
+(maybe get this work with UTF8?)
+You need to format the documents to the size of text box yourself.
+(Maybe another thing I should do?)

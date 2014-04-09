@@ -1,0 +1,25 @@
+{
+	"header":"page-generation",
+	"subheader":"somewhat useful tool for producing web pages from ascii text",
+	"generated_by":"a user",
+	"date":"1970-01-01",
+	"style":"t.css",
+	"template":"temp.html",
+	"outdir":"output/",
+	"links":[
+		{"name":"Developers Twitter","link":"https://twitter.com/vxmute"},
+		{"name":"Github Repo","link":"https://github.com/vxmute/page-generation"}
+	],
+	"articles":[
+		{
+			"title":"index",
+			"location":"text/index.txt",
+			"new_path":"index.html"
+		},
+		{
+			"title":"PGP",
+			"location":"text/key.txt",
+			"new_path":"key.html"
+		}
+	]
+}
