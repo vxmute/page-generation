@@ -2,7 +2,8 @@
 				background-image:url('asciimanpage.png');
 				margin-left:auto;
 				margin-right:auto;
-				width:800px;
+				width:100%;
+				max-width: 60em;
 				background-color: #EEE;
 				font-family:"Courier New";
 				font-size: 14;
@@ -46,7 +47,7 @@
 				border-bottom: 1px solid #000;
 			}
 			#main-copy {
-				max-width: 70em;
+				max-width: 80em;
 				color: black;
 				text-align: justify;
 				line-height: 1em;
@@ -57,4 +58,9 @@
 			#bottom {
 				padding: 1ex 1ex;
 				border-top: 3px solid #000;
+			}
+			pre {
+				white-space: pre-wrap;
+				white-space: -moz-pre-wrap;
+				white-space: -o-pre-wrap;
 			}
